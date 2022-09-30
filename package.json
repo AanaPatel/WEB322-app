@@ -1,0 +1,14 @@
+{
+  "name": "web322-app",
+  "version": "1.0.0",
+  "description": "WEB322 Assigenment",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Ananta Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
